@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "sourceMap": true
+  },
+  "files": [
+    "./day1.ts"
+  ]
+}
